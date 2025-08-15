@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there I'm Mabel 😊
+
+A Full Stack Developer driven by a love for coding and a commitment to delivering high-quality software.
 
 <!--
 **Mabelmn/mabelmn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
